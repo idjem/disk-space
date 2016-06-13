@@ -21,6 +21,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/idjem/disk-space.git"
-  }
+  },
   "version": "1.0.0"
 }
