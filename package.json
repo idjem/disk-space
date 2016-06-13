@@ -1,0 +1,26 @@
+{
+  "author": {
+    "email": "mejdi.ourir@gmail.com",
+    "name": "Mejdi Ourir"
+  },
+  "bugs": {
+    "url": "https://github.com/idjem/disk-space/issues"
+  },
+  "description": "get disk space I have in Linux",
+  "homepage": "https://github.com/idjem/disk-space#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "mejdiourir@gmail.com",
+      "name": "idjem"
+    }
+  ],
+  "name": "disk-space",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idjem/disk-space.git"
+  }
+  "version": "1.0.0"
+}
