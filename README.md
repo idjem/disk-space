@@ -1,14 +1,12 @@
 # disk-space
-get disk space I have in Linux
+This module wraps the `df -BK` command which shows the amount of disk space available on the file system that a given file is stored on. It returns the used size and total size of the file system in kilobytes.
 
-
-
-# API
+# Usage example
 
 ```
-var ds = require('disk-space')();
-ds("/" , function(error , data){
-  console.log(data)   // return {usedSize : "" , totalSize : ""}  in Byte
-})
+const diskSpace = require('disk-space');
+diskSpace('/' , function(error, data) {
+  console.log(data);  // returns { usedSize: 20, totalSize: 30 } in Kilobytes
+});
 
 ```
