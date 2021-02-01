@@ -6,7 +6,7 @@
   "bugs": {
     "url": "https://github.com/idjem/disk-space/issues"
   },
-  "description": "get disk space I have in Linux",
+  "description": "get disk space I have in Linux or OS X",
   "homepage": "https://github.com/idjem/disk-space#readme",
   "license": "ISC",
   "main": "index.js",
