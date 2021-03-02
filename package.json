@@ -8,7 +8,7 @@
   },
   "description": "get disk space I have in Linux",
   "homepage": "https://github.com/idjem/disk-space#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "maintainers": [
     {
